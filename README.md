@@ -20,8 +20,8 @@ I won't make it difficult or force you to set-up much. Just drag the index.html 
 
 While learning basic functionality in p5.js, we will also go over some general JavaScript basics.
 
-1. [Drawing basic shapes](/1_drawing/1_1.basic-shapes)
-2. [Create shapes WITH LOOPS](/1_drawing/1.2_shapes-w-loops)
+1. [Drawing basic shapes](./1_drawing/1_1.basic-shapes)
+2. [Create shapes WITH LOOPS](./1_drawing/1.2_shapes-w-loops)
 
 ## Motion
 
