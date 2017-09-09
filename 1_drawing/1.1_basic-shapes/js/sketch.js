@@ -1,8 +1,15 @@
 /*
- *	Processing has always compared their tools to sketchbooks, with the typical P5 program being called "sketches".
- *	With those words in mind, it makes sense to start at creating basic geometric shapes, and drawing lines. 
+ *	1.1 Drawing with Shapes
  *
- *	The challenge is to use what you learn to draw out a "Hello World" message, however you want to.
+ *	Processing has always compared their tools to sketchbooks, with the typical P5 program being called "sketches".
+ *	With those words in mind, it makes sense to start at creating basic geometric shapes, and drawing lines.
+ *	In many graphics applications, these basic shapes are known as "2D Primitives", so be ready to hear
+ *	that term thrown around. 
+ *
+ *	CHALLENGES:
+ *		1. Use what you learn to draw out a "Hello World" message, however you want to.
+ *		2. Go to http://p5js.org/reference and check out some of the other 2D primitive types, 
+ *		like quad or arc, and use them in your finished sketch.
  */
 
 
@@ -27,27 +34,28 @@ function setup(){
 	// lets define our basic variables. We will store them here, so that we can let each method call benefit from
 	// being able to share widths and heights
 	
-	var radius = 100;
+	var size = 100;
 
 	// BASIC SHAPES
 	//
 	// First, I will be using the rectMode() method, to make the placement based on the center of the ellipse, not the top left corner, like it is by default
+	// Try putting CORNER or RADIUS in place of CENTER
 	rectMode(CENTER);
 
 	// rect(x,y,w,h)
 	// 	draw a rectangle, using position, width, and height
-	rect(width/2,height/2,radius,radius);
+	rect(width/2,height/2,size,size);
 
 	// ellipse(x,y,w,[h]) 
 	// 	this will draw a circle or an ellipse
 	// 	this accepts x,y coordinates for position, width, and optionally, height
 	//
 	// NOTE: width and height are variables created by P5, don't name your variables either! 	
-	ellipse(width/2,height/2,radius); 
+	ellipse(width/2,height/2,size); 
 
 	// triangle(x1,y1,x2,y2,x3,y3);
 	// 	draw a triangle, using three points
-	triangle(radius/2+(width/2),0+(height/2),radius+(width/2),radius+(height/2),0+(width/2),radius+(height/2));
+	triangle(size/2+(width/2),0+(height/2),size+(width/2),size+(height/2),0+(width/2),size+(height/2));
 
 	// line(x1,y1,x2,y2)
 	// 	draw a line, from point a (x1,y1), to point b (x2,y2)
@@ -71,5 +79,4 @@ window.onresize = function() {
  *	So now we know a number of basic drawing methods, but not much more. There is still a lot you can do just with basic shapes.
  *
  *	Take some time making your own "Hello World" sketch using these shapes.
- *
  */
