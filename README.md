@@ -21,8 +21,10 @@ I won't make it difficult or force you to set-up much. Just drag the index.html 
 While learning basic functionality in p5.js, we will also go over some general JavaScript basics.
 
 1. Drawing basic shapes
+
 	a. First we need to know how to draw basic shapes in p5.
 	b. The challenge is to create your own Hello World sketch using rectangles, ellipses, and triangles.
+	
 2. Create shapes WITH LOOPS
 
 ## Motion
