@@ -24,11 +24,16 @@ it as an opportunity to jump ahead and experiment.
 While learning basic functionality in p5.js, we will also go over some general JavaScript basics.
 
 1. Drawing basic shapes
+
 	a. First we need to know how to draw basic shapes in p5.
+	
 	b. The challenge is to create your own Hello World sketch using rectangles, ellipses, and triangles.
+
 2. Draw shapes with loops
+
 	a. Don't do things manually that you could do in a loop. 
-	b. Your challenge will be to make a tunnel of geometric shapes, using loops, and the primitives from 1.1.
+
+	b. Your challenge will be to make a tunnel of geometric shapes, using loops, and the primitives from 1.1.	
 
 ## 2. Motion
 
