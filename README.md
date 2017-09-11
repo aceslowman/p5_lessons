@@ -23,13 +23,13 @@ it as an opportunity to jump ahead and experiment.
 
 While learning basic functionality in p5.js, we will also go over some general JavaScript basics.
 
-1. Drawing basic shapes
+1. **Drawing basic shapes**
 
 	a. First we need to know how to draw basic shapes in p5.
 	
 	b. The challenge is to create your own Hello World sketch using rectangles, ellipses, and triangles.
 
-2. Draw shapes with loops
+2. **Draw shapes with loops**
 
 	a. Don't do things manually that you could do in a loop. 
 
@@ -39,35 +39,27 @@ While learning basic functionality in p5.js, we will also go over some general J
 
 As we start to use motion in some of our sketches, we will dig further into loops, objects, arrays, among others.
 
-1. Playing with the draw loop
-2. Make a geometric tunnel
-3. Create a car
-4. Create a meteor shower
+1. **Playing with the draw loop**
+2. **Make a geometric tunnel**
+3. **Create a car**
+4. **Create a meteor shower**
 
 ## 3. Math
 
 If you want to learn programming, you are going to have to build at least a friendly attitude towards math. We will create a series of rules, and figure out how to implement them.
 
-1. Following rules
-2. Create a radiant sun
+1. **Following rules**
+2. **Create a radiant sun**
 
 ## 4. Interaction
 
 Start thinking about the person using what you're making.
 
-1. Make a typing sketch
-2. Positive and negative feedback
+1. **Make a typing sketch**
+2. **Positive and negative feedback**
 
 ## 5. Data Visualization
 
 And now combine it all.
 
-1. Working with data
-2. 
-3. 
-
-## Credit
-
-Written by Austin Slominski, 2017. Follow me @aceslowman.
-
-If you find yourself sharing some of these sketches and materials, maybe just throw a link back to this repo!
+1. **Working with data**
