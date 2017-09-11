@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Circling Car - Conditionals</title>
+  </head>
+  <body>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.5.14/p5.js"></script>
+  </body>
+
+  <script type="text/javascript">
+
+    // start coordinates for car
+    let x = 100;
+    let y = 470;
+
+    function setup() {
+      createCanvas(800, 600);
+    }
+
+    function draw() {
+
+      if (x < 800) {
+        x = x + 10;
+      }
+      else {
+        x = 0;
+      }
+
+      background(10, 195, 221);
+
+      // street
+      fill(159, 154, 161); // street fill
+      rect(0, 500, 800, 100); // street
+
+      // car
+      fill(212, 45, 16); // car fill
+      noStroke();
+      rect(x, y, 100, 20); // car bottom
+      rect(x + 20, y - 20 , 60, 20); // car top
+      fill(0, 0, 0); // wheel fill
+      ellipse(x + 20, y + 25, 10); // back wheel
+      ellipse(x + 80, y + 25, 10); // front wheel
+    }
+
+  </script>
+</html>
