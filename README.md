@@ -39,12 +39,16 @@ While learning basic functionality in p5.js, we will also go over some general J
 
 As we start to use motion in some of our sketches, we will dig further into loops, objects, arrays, among others.
 
+** Unfinished **
+
 1. **Playing with the draw loop**
 2. **Make a geometric tunnel**
 3. **Create a car**
 4. **Create a meteor shower**
 
 ## 3. Math
+
+** Unfinished **
 
 If you want to learn programming, you are going to have to build at least a friendly attitude towards math. We will create a series of rules, and figure out how to implement them.
 
@@ -53,12 +57,16 @@ If you want to learn programming, you are going to have to build at least a frie
 
 ## 4. Interaction
 
+** Unfinished **
+
 Start thinking about the person using what you're making.
 
 1. **Make a typing sketch**
 2. **Positive and negative feedback**
 
 ## 5. Data Visualization
+
+** Unfinished **
 
 And now combine it all.
 
