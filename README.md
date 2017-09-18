@@ -1,16 +1,16 @@
 # P5 Lessons
 
-The following collection of p5 sketches and documents is meant to lead a new programmer through the basics, from sketching basic shapes, to adding motion, to creating data visualizations using API connections. 
+The following collection of p5 sketches and documents is meant to lead a new programmer through the basics, from sketching basic shapes, to adding motion, to creating data visualizations using API connections.
 
 ## About p5.js
 
-p5.js is a JavaScript library used for graphics, animation, and sound. It is based on Processing, a language that has gained popularity in the creative coding and audiovisual art community. 
+p5.js is a JavaScript library used for graphics, animation, and sound. It is based on Processing, a language that has gained popularity in the creative coding and audiovisual art community.
 
-## Setting up 
+## Setting up
 
 The only thing that you will need to get these examples working is the p5 library. Download from [the p5.js website.](https://p5.js)
 
-You will want to place the entire p5 directory at the `root` of this repository. 
+You will want to place the entire p5 directory at the `root` of this repository.
 
 ### Running the sketches
 
@@ -19,6 +19,10 @@ I won't make it difficult or force you to set-up much. Just drag the index.html 
 For each section, I've also included an example sketch that uses some of the methods you've learned (and then some). They will be more challenging to mimic yourself, but you can use
 it as an opportunity to jump ahead and experiment.
 
+## 0. JavaScript Basics
+
+Test your JavaScript knowledge by drawing and animating a car.
+
 ## 1. Drawing
 
 While learning basic functionality in p5.js, we will also go over some general JavaScript basics.
@@ -26,14 +30,14 @@ While learning basic functionality in p5.js, we will also go over some general J
 1. **Drawing basic shapes**
 
 	a. First we need to know how to draw basic shapes in p5.
-	
+
 	b. The challenge is to create your own Hello World sketch using rectangles, ellipses, and triangles.
 
 2. **Draw shapes with loops**
 
-	a. Don't do things manually that you could do in a loop. 
+	a. Don't do things manually that you could do in a loop.
 
-	b. Your challenge will be to make a tunnel of geometric shapes, using loops, and the primitives from 1.1.	
+	b. Your challenge will be to make a tunnel of geometric shapes, using loops, and the primitives from 1.1.
 
 ## 2. Motion
 
