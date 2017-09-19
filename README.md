@@ -50,6 +50,11 @@ As we start to use motion in some of our sketches, we will dig further into loop
 
 	* **Your challenge** is to make a rainstorm!
 
+1. **Meteor Shower**
+
+	* We will be creating a simple meteor shower effect, utilizing objects in JS
+
+	* **Your challenge** create a "crash" effect!
 
 ## 3. Math
 
