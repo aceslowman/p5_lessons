@@ -45,9 +45,11 @@ As we start to use motion in some of our sketches, we will dig further into loop
 	* To achieve motion in P5, you will need to call a method many times each second. Luckily that is where Draw() comes in!
 
 	* **Your challenge** is to make a rainstorm!
-	
+
 
 ## 3. Math
+
+** Unfinished **
 
 If you want to learn programming, you are going to have to build at least a friendly attitude towards math. We will create a series of rules, and figure out how to implement them.
 
@@ -56,12 +58,16 @@ If you want to learn programming, you are going to have to build at least a frie
 
 ## 4. Interaction
 
+** Unfinished **
+
 Start thinking about the person using what you're making.
 
 1. **Make a typing sketch**
 2. **Positive and negative feedback**
 
 ## 5. Data Visualization
+
+** Unfinished **
 
 And now combine it all.
 
