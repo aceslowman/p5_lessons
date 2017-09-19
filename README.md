@@ -19,6 +19,10 @@ I won't make it difficult or force you to set-up much. Just drag the index.html 
 For each section, I've also included an example sketch that uses some of the methods you've learned (and then some). They will be more challenging to mimic yourself, but you can use
 it as an opportunity to jump ahead and experiment.
 
+## 0. JavaScript Basics
+
+Test your JavaScript knowledge by drawing and animating a car.
+
 ## 1. Drawing
 
 While learning basic functionality in p5.js, we will also go over some general JavaScript basics.
