@@ -1,16 +1,16 @@
 # P5 Lessons
 
-The following collection of p5 sketches and documents is meant to lead a new programmer through the basics, from sketching basic shapes, to adding motion, to creating data visualizations using API connections. 
+The following collection of p5 sketches and documents is meant to lead a new programmer through the basics, from sketching basic shapes, to adding motion, to creating data visualizations using API connections.
 
 ## About p5.js
 
-p5.js is a JavaScript library used for graphics, animation, and sound. It is based on Processing, a language that has gained popularity in the creative coding and audiovisual art community. 
+p5.js is a JavaScript library used for graphics, animation, and sound. It is based on Processing, a language that has gained popularity in the creative coding and audiovisual art community.
 
-## Setting up 
+## Setting up
 
 The only thing that you will need to get these examples working is the p5 library. Download from [the p5.js website.](https://p5.js)
 
-You will want to place the entire p5 directory at the `root` of this repository. 
+You will want to place the entire p5 directory at the `root` of this repository.
 
 ### Running the sketches
 
@@ -25,26 +25,27 @@ While learning basic functionality in p5.js, we will also go over some general J
 
 1. **Drawing basic shapes**
 
-	a. First we need to know how to draw basic shapes in p5.
-	
-	b. The challenge is to create your own Hello World sketch using rectangles, ellipses, and triangles.
+	* First we need to know how to draw basic shapes in p5.
+
+	* **Your challenge** is to create your own Hello World sketch using rectangles, ellipses, and triangles.
+
 
 2. **Draw shapes with loops**
 
-	a. Don't do things manually that you could do in a loop. 
+	* Don't do things manually that you could do in a loop.
 
-	b. Your challenge will be to make a tunnel of geometric shapes, using loops, and the primitives from 1.1.	
+	* **Your challenge** will be to make a tunnel of geometric shapes, using loops, and the primitives from 1.1.
 
 ## 2. Motion
 
 As we start to use motion in some of our sketches, we will dig further into loops, objects, arrays, among others.
 
-** Unfinished **
+1. **The Draw Loop**
 
-1. **Playing with the draw loop**
-2. **Make a geometric tunnel**
-3. **Create a car**
-4. **Create a meteor shower**
+	* To achieve motion in P5, you will need to call a method many times each second. Luckily that is where Draw() comes in!
+
+	* **Your challenge** is to make a rainstorm!
+
 
 ## 3. Math
 
