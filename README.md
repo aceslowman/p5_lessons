@@ -8,7 +8,7 @@ p5.js is a JavaScript library used for graphics, animation, and sound. It is bas
 
 ## Setting up
 
-The only thing that you will need to get these examples working is the p5 library. Download from [the p5.js website.](https://p5.js)
+The only thing that you will need to get these examples working is the p5 library. Download from [the p5.js website.](https://p5js.org/)
 
 You will want to place the entire p5 directory at the `root` of this repository.
 
