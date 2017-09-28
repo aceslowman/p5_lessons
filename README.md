@@ -8,7 +8,7 @@ p5.js is a JavaScript library used for graphics, animation, and sound. It is bas
 
 ## Setting up
 
-The only thing that you will need to get these examples working is the p5 library. Download from [the p5.js website.](https://p5.js)
+The only thing that you will need to get these examples working is the p5 library. Download from [the p5.js website.](https://p5js.org/)
 
 You will want to place the entire p5 directory at the `root` of this repository.
 
@@ -50,6 +50,11 @@ As we start to use motion in some of our sketches, we will dig further into loop
 
 	* **Your challenge** is to make a rainstorm!
 
+2. **Meteor Shower**
+
+	* We will be creating a simple meteor shower effect, utilizing objects in JS
+
+	* **Your challenge** create a "crash" effect!
 
 ## 3. Math
 
